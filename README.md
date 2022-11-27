@@ -2,9 +2,9 @@
 
 ## Description
 
-This project purpose is to create a IoT device that reads information from a MQ5 sensor, and store it's value. If the read value is high, it will send to a Signal Receiver which will send E-mail, and activate a buzzer.
+This project purpose is to create a IoT device that reads information from a MQ5 sensor, and store its value. If the read value is high, it will send to a Signal Receiver which will send E-mail, and activate a buzzer.
 
-Also the project must consume the minimun energy required.
+Also, the project must consume the minimum energy possible.
 
 ## Additional Information
 
