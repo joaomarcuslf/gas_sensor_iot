@@ -1,0 +1,2 @@
+#define WIFI_SSID "WIFI NAME 2G"
+#define WIFI_PASS "WIFI PASSWORD"
